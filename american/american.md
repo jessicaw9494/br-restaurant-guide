@@ -2,7 +2,7 @@
 ## American
 ---
 Select a restaurant:
-## [McDonald's](http://www.mcdonalds.com/)
-## [Burger Bistro](http://www.theburgerbistro.com/)
+## [McDonald's](https://www.mcdonalds.com/)
+## [Burger Bistro](https://www.theburgerbistro.com/)
 ---
 [Start Over](../home.md)

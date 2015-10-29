@@ -2,7 +2,7 @@
 ## Asian --> Japanese
 ---
 Select a restaurant:
-## Bayridge Sushi http://www.brsushi.com/
+## Bayridge Sushi https://www.brsushi.com/
 ---
-Back to Asian  
-Start Over
+## [Back to Asian](../asian.md)  
+## [Start over](../home.md)
